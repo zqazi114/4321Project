@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      zq2154
+HostName                       cadpc08.ee.columbia.edu
+ProcessIdentifier              6671
+ProcessCreationTime_UTC        1543676921
+ProcessCreationTime_Readable   Sat Dec  1 10:08:41 2018 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /homes/user/stud/spring18/zq2154/FALL18/ELEN4321/Cadence/project/sram_precharge_1b/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sat Dec  1 10:57:27 2018 EST
